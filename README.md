@@ -35,7 +35,7 @@ Free Cloud account имеет ограничения:
 </p>
 
 <p align="center">
-    <img width="1200 height="600" src="/scr/sentry_event.png.png">
+    <img width="1200 height="600" src="/scr/sentry_event.png">
 </p>
 
 <p align="center">
